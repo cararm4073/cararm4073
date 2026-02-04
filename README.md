@@ -6,12 +6,12 @@
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" />
-
+<br><br>
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/WSL-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-
+<br><br>
 <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" />
 <img src="https://img.shields.io/badge/GCC-FFCF00?style=for-the-badge&logo=gnu&logoColor=black" />
@@ -26,15 +26,17 @@
 
 <div align="center">
 
-<a href="https://github.com/[TU USUARIO]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU USUARIO]&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/cararm4073">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cararm4073&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </a>
 
-<a href="https://github.com/[TU USUARIO]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU USUARIO]&layout=compact&theme=radical"/>
+<a href="https://github.com/cararm4073">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cararm4073&layout=compact&theme=radical"/>
 </a>
 
 </div>
+
+---
 
 <div align="center"> 
   <br>
