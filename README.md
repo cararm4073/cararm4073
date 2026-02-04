@@ -27,9 +27,9 @@
 <div align="center">
 
 <a href="https://github.com/cararm4073">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cararm4073&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cararm4073&show_icons=true&theme=radical&include_all_commits=true"/>
 </a>
-
+<br><br>
 <a href="https://github.com/cararm4073">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cararm4073&layout=compact&theme=radical"/>
 </a>
@@ -40,5 +40,5 @@
 
 <div align="center"> 
   <br>
-  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
 </div>
