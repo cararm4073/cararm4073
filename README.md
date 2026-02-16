@@ -27,6 +27,8 @@
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
 </div>
 
+Currently learning & improving all of the stack above for reproducible coursework!
+
 ---
 
 ### 📊 GitHub Stats
@@ -38,6 +40,4 @@
 
 ---
 
-<div align="center"> 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
