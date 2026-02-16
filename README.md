@@ -25,15 +25,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/cararm4073">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cararm4073&show_icons=true&theme=radical&include_all_commits=true"/>
-</a>
-<br><br>
-<a href="https://github.com/cararm4073">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cararm4073&layout=compact&theme=radical"/>
-</a>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=cararm4073&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cararm4073&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ---
