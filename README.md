@@ -7,12 +7,11 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/MATLAB-e16737?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white" />
 <br><br>
 <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -24,8 +23,8 @@
 <img src="https://img.shields.io/badge/GCC-FFCF00?style=for-the-badge&logo=gnu&logoColor=black" />
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 <img src="https://img.shields.io/badge/Physlets-Tracker-blueviolet?style=for-the-badge" />
-
-</div>
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ---
 
@@ -39,6 +38,5 @@
 ---
 
 <div align="center"> 
-  <br>
-  <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </div>
